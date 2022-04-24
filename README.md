@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminvsf
 - 👀 I’m interested in Programming and Computers :D
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ML using Python.
 - 📫 How to reach me: aminvsf911@gmail.com or www.aminvasefpoor.com
 
 <!---
