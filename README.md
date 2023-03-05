@@ -13,7 +13,7 @@
             <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
                  alt="Instagram Badge"/>
         </a>
-        <a href="https://aminvasefpoor.com/">
+        <a href="https://aminvasefpoor.ir/">
             <img src="https://img.shields.io/badge/Personal%20Website-cyan?style=for-the-badge&logo=django&logoColor=black"
                  alt="Web Badge"/>
         </a>
