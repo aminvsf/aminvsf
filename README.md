@@ -25,13 +25,13 @@
     </h1>
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 
 I am a Python and Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 - :telescope: I’m working as a Python programmer and contributing to backend for building web applications.
 
-- :seedling: I'm currently learning ML using Python.
+- :seedling: I'm currently learning Kubernetes.
 
 - :zap: In my free time, I learn German language!
 
@@ -39,7 +39,7 @@ I am a Python and Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -58,9 +58,3 @@ I am a Python and Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
