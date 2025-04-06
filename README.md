@@ -2,20 +2,16 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
         <a href="https://github.com/aminvsf">
-            <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white"
-                 alt="GitHub Badge"/>
+            <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
         </a>
         <a href="https://www.linkedin.com/in/aminvassefpoor">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-                 alt="LinkedIn Badge"/>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://www.instagram.com/aminvasefpoor/">
-            <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"
-                 alt="Instagram Badge"/>
+            <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
         </a>
         <a href="https://aminvasefpoor.ir/">
-            <img src="https://img.shields.io/badge/Personal%20Website-cyan?style=for-the-badge&logo=django&logoColor=black"
-                 alt="Web Badge"/>
+            <img src="https://img.shields.io/badge/Personal%20Website-cyan?style=for-the-badge&logo=django&logoColor=black" alt="Web Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
@@ -35,7 +31,7 @@ I am a Python and Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I learn German language!
 
-- :mailbox:How to reach me: www.aminvasefpoor.ir or aminvassefpoor@gmail.com
+- :mailbox: How to reach me: www.aminvasefpoor.ir or aminvassefpoor@gmail.com
 
 ---
 
